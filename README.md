@@ -25,23 +25,23 @@ A gorgeous and expertly restaurant discovery app that provides client various of
 <div style = "display:flex;flex-wrap:wrap;gap:2em">
   <div>
     <p>Home View dark mode</p>
-    <img style = "object-fit:contain" src = "https://i.imgur.com/D2NVgZL.png" width="400" height="700"/>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/D2NVgZL.png" width="300" height="700"/>
   </div>
    <div>
     <p>Home View light mode</p>
-    <img style = "object-fit:contain" src = "https://i.imgur.com/0RxQqNc.png" width="400" height="700"/>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/0RxQqNc.png" width="300" height="700"/>
   </div>
  <div>
     <p>Splash screen</p>
-    <img style = "object-fit:contain" src = "https://i.imgur.com/0nqVLOE.png" width="400" height="700"/>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/0nqVLOE.png" width="300" height="700"/>
   </div>
    <div>
     <p>Login View</p>
-    <img style = "object-fit:contain" src = "https://i.imgur.com/J25ll9A.png"/>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/J25ll9A.png" width="300" height="700"/>
   </div>
    <div>
     <p>Register View</p>
-    <img style = "object-fit:contain" src = "https://i.imgur.com/gGE0VHA.png" width="400" height="700"/>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/gGE0VHA.png" width="300" height="700"/>
   </div>
 
  </div>
