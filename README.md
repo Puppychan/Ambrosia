@@ -22,28 +22,87 @@ A gorgeous and expertly restaurant discovery app that provides client various of
 
 <!-- Screenshots -->
 ### :camera: Screenshots
-<div style = "display:flex;flex-wrap:wrap;gap:2em">
-  <div>
+<div style = "display:flex;flex-direction:row;gap:2em;flex-wrap:wrap;">
+  <div style = "display:flex;flex-direction:column;width:45%">
     <p>Home View dark mode</p>
     <img style = "object-fit:contain" src = "https://i.imgur.com/D2NVgZL.png" width="300" height="700"/>
   </div>
-   <div>
+   <div style = "display:flex;flex-direction:column;width:45%">
     <p>Home View light mode</p>
     <img style = "object-fit:contain" src = "https://i.imgur.com/0RxQqNc.png" width="300" height="700"/>
   </div>
- <div>
+ <div style = "display:flex;flex-direction:column;width:45%">
     <p>Splash screen</p>
     <img style = "object-fit:contain" src = "https://i.imgur.com/0nqVLOE.png" width="300" height="700"/>
   </div>
-   <div>
+   <div style = "display:flex;flex-direction:column;width:45%">
     <p>Login View</p>
     <img style = "object-fit:contain" src = "https://i.imgur.com/J25ll9A.png" width="300" height="700"/>
   </div>
-   <div>
+   <div style = "display:flex;flex-direction:column;width:45%">
     <p>Register View</p>
     <img style = "object-fit:contain" src = "https://i.imgur.com/gGE0VHA.png" width="300" height="700"/>
   </div>
-
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Forget password View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/JU4M4Bl.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Register View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/gGE0VHA.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>All restaurants View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/VKntzh3.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Nearby restaurants view</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/4v873tM.png" width="300" height="300"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Top ranking restaurants View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/nuOIYMw.png" width="300" height="300"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Restaurant Detail View 1</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/1mIZMNt.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Restaurant Detail View 2</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/nFZ80SA.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Restaurant Opening Hours & Address View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/W0F7147.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Restaurant Reviews View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/sFlZO2O.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Favorite Restaurants View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/lxlYPSZ.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>User Profile View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/RWZeE7D.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>User Edit Profile View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/Io0iqNB.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>User Recent Review View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/KgwKkQF.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>Restaurant Search View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/d3rvVsG.png" width="300" height="700"/>
+  </div>
+   <div style = "display:flex;flex-direction:column;width:45%">
+    <p>User Edit Avatar View</p>
+    <img style = "object-fit:contain" src = "https://i.imgur.com/1THjmPF.png" width="300" height="700"/>
+  </div>
  </div>
 
 <!-- TechStack -->
