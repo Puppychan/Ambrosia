@@ -1,10 +1,15 @@
 <!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
+# Ambrosia App Project
 
-- [:notebook_with_decorative_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-  - [:star2: About the Project](#star2-about-the-project)
-    - [💡Introduction](#introduction)
-    - [:camera: Screenshots](#camera-screenshots)
+# 📜 Table of Contents 📜
+- 🌍 [**Welcome to Ambrosia Project**](#star2-about-the-project)
+  - [💡Introduction](#introduction)
+  - [:camera: Screenshots](#camera-screenshots)
+- 📖 [**Navigating the Adventure**](#table-of-content)
+- 💡 [**Diving In: Introduction**](#introduction)
+
+    
+    - 
     - [:space_invader: Tech Stack](#space_invader-tech-stack)
     - [:dart: Features](#dart-features)
     - [:key: Further Improvemance](#key-further-improvemance)
