@@ -3,16 +3,11 @@
 
 # 📜 Table of Contents 📜
 - 🌍 [**Welcome to Ambrosia Project**](#star2-about-the-project)
-  - [💡Introduction](#introduction)
-  - [:camera: Screenshots](#camera-screenshots)
-- 📖 [**Navigating the Adventure**](#table-of-content)
-- 💡 [**Diving In: Introduction**](#introduction)
-
-    
-    - 
-    - [:space_invader: Tech Stack](#space_invader-tech-stack)
-    - [:dart: Features](#dart-features)
-    - [:key: Further Improvemance](#key-further-improvemance)
+  - 💡[**Explore: Introduction](#introduction)
+  - 🛠️[**Tools - Tech Stack](#space_invader-tech-stack)
+  - [ Screenshots](#camera-screenshots)
+  - 🪭[Features](#features)
+  - 🚄[Further Improvemance](#key-further-improvemance)
   - [:toolbox: Getting Started](#toolbox-getting-started)
     - [:bangbang: Prerequisites](#bangbang-prerequisites)
     - [🔧 installation](#-installation)
@@ -116,7 +111,7 @@ A gorgeous and expertly restaurant discovery app that provides client various of
 -    Data is stored in Firestore
 
 <!-- Features -->
-### :dart: Features
+### 🪭 Features
 
 ####    ***Main Features:***
 -    Display list of 250 restaurants in HCM city. 
@@ -147,6 +142,7 @@ A gorgeous and expertly restaurant discovery app that provides client various of
 
 -    The project uses Xcode as an IDE to run the project
 -    Firebase account
+-    Make sure your OS system is MacOS.
 
 <!-- Installation -->
 ### 🔧 installation
@@ -159,9 +155,9 @@ A gorgeous and expertly restaurant discovery app that provides client various of
 ## :handshake: Contact
 
 Team Gmail: 
+- nhungmaitran1412@gmail.com | [https://github.com/Puppychan/](https://github.com/Puppychan/)
 - bmhuyquoc104@gmail.com
-- s3879954@rmit.edu.vn
 - s3864077@rmit.edu.vn
 - s3877707@rmit.edu.vn
 
-Project Link: [https://github.com/bmhuyquoc104/Ambrosia](https://github.com/bmhuyquoc104/Ambrosia)
+Project Link: [https://github.com/Puppychan/Ambrosia](https://github.com/Puppychan/Ambrosia)
