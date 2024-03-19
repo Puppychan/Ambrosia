@@ -1,5 +1,7 @@
 <!-- Table of Contents -->
 # Ambrosia App Project
+- This project is one of the top three best-design team projects in 2022 in iOS Development course in RMIT University SGS.
+- The course coordinator: [Tom Huynh](https://www.linkedin.com/in/tomhuynhsg/)
 
 # 📜 Table of Contents 📜
 - 🌍 [**Welcome to Ambrosia Project**](#star2-about-the-project)
